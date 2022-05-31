@@ -153,7 +153,7 @@ nav ul li a:hover {
 /* start: hero styles */
 
 #hero-image {
-  background: url('https://github.com/SneakyPeeks/GamingWebsite/blob/main/css/Background5.png') top center no-repeat;
+  background: url(Background5.png) top center no-repeat;
   height: 550px;
 }
 
@@ -500,6 +500,11 @@ nav ul li a:hover {
 
 #posts-comments .posts-comments-box h3 {
   color: #eee;
+}
+
+.footer-graphic {
+  height: 480px;
+  width: 50px;
 }
 
 .post-item {
