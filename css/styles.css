@@ -4,7 +4,11 @@ body {
 }
 
 /* start: global style rules */
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   line-height: 1.5;
   font-weight: 300;
   margin: 0.5em 0;
@@ -34,7 +38,9 @@ a {
   text-decoration: none;
 }
 
-p, label, strong {
+p,
+label,
+strong {
   line-height: 2;
   font-size: 0.85em;
   font-weight: 300;
@@ -342,7 +348,7 @@ nav ul li a:hover {
   padding: 125px 0 105px;
 }
 
-.tournament-heading{
+.tournament-heading {
   position: relative;
   top: -50px;
   left: 500px;
